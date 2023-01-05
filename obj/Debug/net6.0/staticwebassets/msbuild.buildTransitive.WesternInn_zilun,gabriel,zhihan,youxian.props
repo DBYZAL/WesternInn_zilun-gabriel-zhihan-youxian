@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WesternInn_zilun,gabriel,zhihan,youxian.props" />
+</Project>

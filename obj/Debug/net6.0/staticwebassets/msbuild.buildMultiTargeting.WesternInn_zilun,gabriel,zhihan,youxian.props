@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WesternInn_zilun,gabriel,zhihan,youxian.props" />
+</Project>

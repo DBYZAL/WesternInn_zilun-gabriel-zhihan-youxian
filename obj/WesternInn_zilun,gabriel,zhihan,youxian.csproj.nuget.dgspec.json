@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\edward\\grade 1 bachlor\\website development\\pracset 1\\WesternInn_zilun,gabriel,zhihan,youxian\\WesternInn_zilun,gabriel,zhihan,youxian.csproj": {}
+    "C:\\Users\\caesar\\Source\\Repos\\WesternInn_zilun-gabriel-zhihan-youxian\\WesternInn_zilun,gabriel,zhihan,youxian.csproj": {}
   },
   "projects": {
-    "C:\\edward\\grade 1 bachlor\\website development\\pracset 1\\WesternInn_zilun,gabriel,zhihan,youxian\\WesternInn_zilun,gabriel,zhihan,youxian.csproj": {
+    "C:\\Users\\caesar\\Source\\Repos\\WesternInn_zilun-gabriel-zhihan-youxian\\WesternInn_zilun,gabriel,zhihan,youxian.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\edward\\grade 1 bachlor\\website development\\pracset 1\\WesternInn_zilun,gabriel,zhihan,youxian\\WesternInn_zilun,gabriel,zhihan,youxian.csproj",
+        "projectUniqueName": "C:\\Users\\caesar\\Source\\Repos\\WesternInn_zilun-gabriel-zhihan-youxian\\WesternInn_zilun,gabriel,zhihan,youxian.csproj",
         "projectName": "WesternInn_zilun,gabriel,zhihan,youxian",
-        "projectPath": "C:\\edward\\grade 1 bachlor\\website development\\pracset 1\\WesternInn_zilun,gabriel,zhihan,youxian\\WesternInn_zilun,gabriel,zhihan,youxian.csproj",
-        "packagesPath": "C:\\Users\\edwar\\.nuget\\packages\\",
-        "outputPath": "C:\\edward\\grade 1 bachlor\\website development\\pracset 1\\WesternInn_zilun,gabriel,zhihan,youxian\\obj\\",
+        "projectPath": "C:\\Users\\caesar\\Source\\Repos\\WesternInn_zilun-gabriel-zhihan-youxian\\WesternInn_zilun,gabriel,zhihan,youxian.csproj",
+        "packagesPath": "C:\\Users\\caesar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\caesar\\Source\\Repos\\WesternInn_zilun-gabriel-zhihan-youxian\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\edwar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\caesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -86,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

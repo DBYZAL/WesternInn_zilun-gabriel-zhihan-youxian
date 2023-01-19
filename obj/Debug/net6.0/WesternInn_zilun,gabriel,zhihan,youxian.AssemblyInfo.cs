@@ -11,7 +11,6 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-WesternInn_zilun_gabriel_zhihan_youxian-3f40c9b8-ff79-419a-9ed5-26e6e9a27a" +
     "04")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("WesternInn_zilun,gabriel,zhihan,youxian")]
